@@ -1,7 +1,32 @@
-# test_repo
-pass
-| Группа | GitHub (username или ссылка) | Work ID | Deadline | Комментарий |
-|--------:|:---------------------------:|:-------:|:--------:|:-----------|
-| 101     | @student1                   | 1001    | 01.03.2026 23:59 | Сдать через PR |
-| 101     | https://github.com/student2  | 1002    | 01.03.2026 23:59 | — |
-| 102     | @student3                   | 1003    | 05.03.2026 23:59 | Отсутствует файл отчёта |
+# Алгоритмы и структуры данных 2 курс 2024 год, группа 3344
+
+| Surname      | Name      | github           | lb1   | lb2   | lb3   | lb4   | cw   |
+|:-------------|:----------|:-----------------|:------|:------|:------|:------|:-----|
+| Anakhin      | Egor      | MyNameIsEgorA    |       |       |       |       |      |
+| Bazhukov     | Sergei    | sbazukov         |       |       |       |       |      |
+| Biryukov     | Lenar     | Vfrhu            |       |       |       |       |      |
+| Bubyakina    | Yuliya    | bubyashek        |       |       |       |       |      |
+| Valiev       | Ruslan    | Ozixnet          |       |       |       |       |      |
+| Verdin       | Kirill    | VerdinKirill     |       |       |       |       |      |
+| Volkov       | Aleksandr | SaN1kk           |       |       |       |       |      |
+| Volokhov     | Mikhail   | DARKZOUL5        |       |       |       |       |      |
+| Guseva       | Elena     | hell-gus         |       |       |       |       |      |
+| Zhavoronok   | Danila    | Ledatu           |       |       |       |       |      |
+| Klyukin      | Aleksandr | ich-klyukovka    |       |       |       |       |      |
+| Konyaeva     | Marina    | mor1la           |       |       |       |       |      |
+| Korshunov    | Petr      | Zoxver           |       |       |       |       |      |
+| Kuznetsov    | Roman     | romeowku         |       |       |       |       |      |
+| Murdasov     | Mikhail   | MihailMurdasov   |       |       |       |       |      |
+| Okhrimenko   | Denis     | Dochrimm         |       |       |       |       |      |
+| Pachev       | Danila    | Danila1354       |       |       |       |       |      |
+| Samonenko    | Olga      | samonenk0        |       |       |       |       |      |
+| Serbinovskii | Yurii     | kisyamane        |       |       |       |       |      |
+| Somak        | Demid     | kizz21           |       |       |       |       |      |
+| Tukalkin     | Vladimir  | mazer300         |       |       |       |       |      |
+| Khangulyan   | Sargis    | hangulan53       |       |       |       |       |      |
+| Khannanov    | Artem     | ArtyomKF         |       |       |       |       |      |
+| Shcherbak    | Maksim    | SherbakMaxim3344 |       |       |       |       |      |
+| Yakimova     | Yuliya    | Julia0021        |       |       |       |       |      |
+| Fominykh     | Egor      | EgorFom          |       |       |       |       |      |
+| Svyatokho    | Vadim     | svvtkho          |       |       |       |       |      |
+| Gayfutdinov  | Aydar     | chelovekkrokant  |       |       |       |       |      |
