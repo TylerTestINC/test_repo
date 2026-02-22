@@ -1,32 +1,6 @@
-# Алгоритмы и структуры данных 2 курс 2024 год, группа 3344
-
-| Surname      | Name      | github           | lb1   | lb2   | lb3   | lb4   | cw   |
-|:-------------|:----------|:-----------------|:------|:------|:------|:------|:-----|
-| Anakhin      | Egor      | MyNameIsEgorA    |       |       |       |       |      |
-| Bazhukov     | Sergei    | sbazukov         |       |       |       |       |      |
-| Biryukov     | Lenar     | Vfrhu            |       |       |       |       |      |
-| Bubyakina    | Yuliya    | bubyashek        |       |       |       |       |      |
-| Valiev       | Ruslan    | Ozixnet          |       |       |       |       |      |
-| Verdin       | Kirill    | VerdinKirill     |       |       |       |       |      |
-| Volkov       | Aleksandr | SaN1kk           |       |       |       |       |      |
-| Volokhov     | Mikhail   | DARKZOUL5        |       |       |       |       |      |
-| Guseva       | Elena     | hell-gus         |       |       |       |       |      |
-| Zhavoronok   | Danila    | Ledatu           |       |       |       |       |      |
-| Klyukin      | Aleksandr | ich-klyukovka    |       |       |       |       |      |
-| Konyaeva     | Marina    | mor1la           |       |       |       |       |      |
-| Korshunov    | Petr      | Zoxver           |       |       |       |       |      |
-| Kuznetsov    | Roman     | romeowku         |       |       |       |       |      |
-| Murdasov     | Mikhail   | MihailMurdasov   |       |       |       |       |      |
-| Okhrimenko   | Denis     | Dochrimm         |       |       |       |       |      |
-| Pachev       | Danila    | Danila1354       |       |       |       |       |      |
-| Samonenko    | Olga      | samonenk0        |       |       |       |       |      |
-| Serbinovskii | Yurii     | kisyamane        |       |       |       |       |      |
-| Somak        | Demid     | kizz21           |       |       |       |       |      |
-| Tukalkin     | Vladimir  | mazer300         |       |       |       |       |      |
-| Khangulyan   | Sargis    | hangulan53       |       |       |       |       |      |
-| Khannanov    | Artem     | ArtyomKF         |       |       |       |       |      |
-| Shcherbak    | Maksim    | SherbakMaxim3344 |       |       |       |       |      |
-| Yakimova     | Yuliya    | Julia0021        |       |       |       |       |      |
-| Fominykh     | Egor      | EgorFom          |       |       |       |       |      |
-| Svyatokho    | Vadim     | svvtkho          |       |       |       |       |      |
-| Gayfutdinov  | Aydar     | chelovekkrokant  |       |       |       |       |      |
+<table>
+<tr><th>Группа</th><th>GitHub</th><th>Work ID</th><th>Deadline</th><th>Комментарий</th></tr>
+<tr><td>101</td><td>@student1</td><td>1001</td><td>01.03.2026 23:59</td><td>Сдать через PR</td></tr>
+<tr><td>101</td><td>https://github.com/student2</td><td>1002</td><td>01.03.2026 23:59</td><td>—</td></tr>
+<tr><td>102</td><td>@student3</td><td>1003</td><td>05.03.2026 23:59</td><td>Отсутствует файл отчёта</td></tr>
+</table>
